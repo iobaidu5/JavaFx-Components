@@ -1,0 +1,18 @@
+.root{
+
+     -fx-background-color: #D8D8D8;
+     -fx-font-size: 15;
+ }
+
+.button{
+    -fx-background-color:#Ba8BAF;
+}
+.button-signup{
+    -fx-background-color:#7CAFC3;
+    -fx-background-radius: 6;
+    -fx-text-fill: #FFFFFF;
+}
+
+.bold-label{
+    -fx-font-weight: bold;
+}
